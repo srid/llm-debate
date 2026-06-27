@@ -21,3 +21,4 @@ Full workflow: [`.apm/skills/debate/SKILL.md`](.apm/skills/debate/SKILL.md).
 ## Examples
 
 - **[The best way to increase *sensuous* (not affective) enjoyment](debates/sensuous-enjoyment/)** — a collaborative, truth-seeking debate between Claude (Opus 4.8) and Codex (gpt-5.5). Nine turns of steelmanning and conceding, converging on a [ratified nine-point ledger](debates/sensuous-enjoyment/conclusion.md). The folder opens on a plain-language summary of the result.
+- **[The same topic, re-examined under actualism](debates/sensuous-actualism/)** — a non-spiritual follow-up that re-runs the question on actualist terms (Richard's actualism; *no "feeling it in the body"*). Five turns between the same two agents, converging on a [ratified ledger](debates/sensuous-actualism/conclusion.md) that overturns the first debate's affect-friendly compromise. The folder opens on a plain-language summary.
