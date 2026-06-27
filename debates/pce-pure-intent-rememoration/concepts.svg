@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 372" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#5a5a6b"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="960" height="372" rx="14" fill="#fcfcfd" stroke="#e2e2ea" stroke-width="1.5"/>
+
+  <text x="28" y="34" font-size="19" font-weight="700" fill="#1a1a2e">Putting a remembered PCE into practice</text>
+  <text x="28" y="54" font-size="12" fill="#6b6b7b">debate 4 · every step sourced to actualfreedom.com.au · <tspan fill="#2a55b0" font-weight="700">R</tspan> = Richard · <tspan fill="#b06a17" font-weight="700">P</tspan> = Peter</text>
+
+  <!-- chain of 5 -->
+  <!-- box 1 -->
+  <rect x="20" y="78" width="162" height="132" rx="9" fill="#eef3fb" stroke="#3b6fd4" stroke-width="1.5"/>
+  <text x="34" y="104" font-size="12.5" font-weight="700" fill="#23304a">1 · Remember a PCE</text>
+  <text x="34" y="124" font-size="11" fill="#3a455e">a self-less peak</text>
+  <text x="34" y="140" font-size="11" fill="#3a455e">you&#8217;ve already had</text>
+  <text x="34" y="166" font-size="10.5" font-style="italic" fill="#5a6b8c">&#8216;&#8230;at least one&#8217;</text>
+  <text x="160" y="200" font-size="11" font-weight="700" fill="#2a55b0">R</text>
+
+  <!-- box 2 -->
+  <rect x="210" y="78" width="162" height="132" rx="9" fill="#eef3fb" stroke="#3b6fd4" stroke-width="1.5"/>
+  <text x="224" y="104" font-size="12.5" font-weight="700" fill="#23304a">2 · Your lodestone</text>
+  <text x="224" y="124" font-size="11" fill="#3a455e">the standard to</text>
+  <text x="224" y="140" font-size="11" fill="#3a455e">live by</text>
+  <text x="224" y="166" font-size="10.5" font-style="italic" fill="#5a6b8c">&#8216;&#8230;not me or</text>
+  <text x="224" y="181" font-size="10.5" font-style="italic" fill="#5a6b8c">my words&#8217;</text>
+  <text x="350" y="200" font-size="11" font-weight="700" fill="#2a55b0">R</text>
+
+  <!-- box 3 -->
+  <rect x="400" y="78" width="162" height="132" rx="9" fill="#e6f6f5" stroke="#1f9e95" stroke-width="1.5"/>
+  <text x="414" y="104" font-size="12.5" font-weight="700" fill="#16786f">3 · Pure intent</text>
+  <text x="414" y="124" font-size="11" fill="#15403c">the PCE-derived</text>
+  <text x="414" y="140" font-size="11" fill="#15403c">&#8216;connection&#8217; revives</text>
+  <text x="414" y="166" font-size="10.5" font-style="italic" fill="#178a80">a felt &#8216;life-force&#8217;</text>
+  <text x="540" y="200" font-size="11" font-weight="700" fill="#2a55b0">R<tspan fill="#999"> · </tspan><tspan fill="#b06a17">P</tspan></text>
+
+  <!-- box 4 -->
+  <rect x="590" y="78" width="162" height="132" rx="9" fill="#eef3fb" stroke="#3b6fd4" stroke-width="1.5"/>
+  <text x="604" y="104" font-size="12.5" font-weight="700" fill="#23304a">4 · The method</text>
+  <text x="604" y="124" font-size="11" fill="#3a455e">felicity + asking</text>
+  <text x="604" y="150" font-size="10.5" font-style="italic" fill="#5a6b8c">&#8216;How am I experiencing</text>
+  <text x="604" y="165" font-size="10.5" font-style="italic" fill="#5a6b8c">this moment&#8230;?&#8217;</text>
+  <text x="730" y="200" font-size="11" font-weight="700" fill="#2a55b0">R</text>
+
+  <!-- box 5 -->
+  <rect x="778" y="78" width="162" height="132" rx="9" fill="#fdf3e3" stroke="#d9892b" stroke-width="1.5"/>
+  <text x="792" y="104" font-size="12.5" font-weight="700" fill="#a4630f">5 · Virtual freedom</text>
+  <text x="792" y="124" font-size="11" fill="#5c4a2a">the wide and</text>
+  <text x="792" y="140" font-size="11" fill="#5c4a2a">wondrous path</text>
+  <text x="792" y="166" font-size="10.5" font-style="italic" fill="#9a7430">a &#8216;99% perfect day&#8217;</text>
+  <text x="918" y="200" font-size="11" font-weight="700" fill="#b06a17">P</text>
+
+  <!-- arrows -->
+  <line x1="184" y1="144" x2="208" y2="144" stroke="#5a5a6b" stroke-width="1.7" marker-end="url(#arr)"/>
+  <line x1="374" y1="144" x2="398" y2="144" stroke="#5a5a6b" stroke-width="1.7" marker-end="url(#arr)"/>
+  <line x1="564" y1="144" x2="588" y2="144" stroke="#5a5a6b" stroke-width="1.7" marker-end="url(#arr)"/>
+  <line x1="754" y1="144" x2="776" y2="144" stroke="#5a5a6b" stroke-width="1.7" marker-end="url(#arr)"/>
+
+  <!-- honest notes -->
+  <line x1="28" y1="244" x2="932" y2="244" stroke="#e6e6ee" stroke-width="1.5"/>
+  <text x="28" y="268" font-size="12.5" font-weight="700" fill="#2a2a3e">Two honest notes</text>
+  <text x="28" y="290" font-size="11.5" fill="#444">&#8226; <tspan font-weight="700">&#8216;Rememoration&#8217;</tspan> &#8212; recalling the PCE this way is glossed &#8216;rememoration &amp; presentiation&#8217; on FAQ43a [R], but by definition it is general felt-recall,</text>
+  <text x="40" y="307" font-size="11.5" fill="#444">not Richard&#8217;s settled name for the whole pure-intent mechanism (his running usage is <tspan font-style="italic">atavistic</tspan> memory).</text>
+  <text x="28" y="332" font-size="11.5" fill="#444">&#8226; The <tspan font-weight="700">&#8216;golden thread / clew&#8217;</tspan> (the connection forming as the PCE fades) is Richard&#8217;s autobiographical image &#8212; &#8216;the way it worked&#8217; &#8212; not a rule.</text>
+</svg>
