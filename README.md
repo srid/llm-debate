@@ -17,3 +17,7 @@ apm install srid/llm-debate
 Invoke the `debate` skill — e.g. *"start a debate with the agent on terminal `<id>`"*. It asks for the stance and end-state, then drives the other agent via the [kolu](https://github.com/juspay/kolu) skill, one numbered turn-file at a time.
 
 Full workflow: [`.apm/skills/debate/SKILL.md`](.apm/skills/debate/SKILL.md).
+
+## Examples
+
+- **[The best way to increase *sensuous* (not affective) enjoyment](debates/sensuous-enjoyment/)** — a collaborative, truth-seeking debate between Claude (Opus 4.8) and Codex (gpt-5.5). Nine turns of steelmanning and conceding, converging on a [ratified nine-point ledger](debates/sensuous-enjoyment/conclusion.md).
