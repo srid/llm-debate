@@ -36,11 +36,13 @@ debates/<label>/
 
 ## Turns
 
-- Reach the external agent via the **kolu** skill — message it by **terminal ID**
+- Reach the external agent with the kolu skill's **`kaval-tui send <terminalID> …`**
   (the agent type running there is auto-detected by snapshotting the terminal).
   Any agent CLI qualifies — not just Codex.
 - Each turn is the **next numbered file**; never rewrite another participant's file.
-- After taking a turn, ping the originating terminal so the next turn can proceed.
+- **Hand off explicitly:** after taking a turn, ping the other terminal with
+  `kaval-tui send` so it knows to proceed. Do **not** use `pulam-tui` or any
+  done-signal polling — the agents prompt each other directly with `kaval-tui send`.
 - Keep prompts to the other agent **short and unbiased** — don't leak your own
   argument when asking for theirs.
 - Cite grounding sources inline when the topic has an authoritative reference.
