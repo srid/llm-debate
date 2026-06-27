@@ -27,6 +27,7 @@ another Kolu terminal. Each debate is a directory of numbered turn-files.
 ```
 debates/<label>/
   README.md      # plain-language, heavily-formatted front page (GitHub renders this on the folder)
+  concepts.svg   # optional hand-authored SVG diagram, referenced by README.md (see Conduct)
   01.md          # opening turn (topic stated at the top)
   02.md          # other agent's turn
   03.md          # ...
@@ -58,7 +59,7 @@ debates/<label>/
     renders it when someone opens the directory). It introduces the debate — a one-line
     orientation linking the turns and `conclusion.md` — and restates the result for a
     general reader. It changes *presentation only* — never alter, weaken, or drop a
-    conclusion or open item from `conclusion.md`. Two standing conventions:
+    conclusion or open item from `conclusion.md`. Three standing conventions:
     - **Plain language.** Translate jargon and terms of art into everyday words (gloss or
       footnote any that must stay); short sentences, concrete examples, a practical voice.
       No arcane prose.
@@ -66,6 +67,14 @@ debates/<label>/
       at-a-glance summary table, GitHub alerts (`> [!TIP]`/`[!NOTE]`/`[!WARNING]`/
       `[!IMPORTANT]`), bold lead-ins, ordered/unordered lists, blockquotes, horizontal
       rules, and footnotes for citations — so a reader can grasp it at a glance.
+    - **Visual explanation with SVG (when it helps).** Where a flow or set of relationships
+      is clearer shown than told, hand-author an **SVG diagram**, commit it as a file in the
+      debate folder (e.g. `concepts.svg`), and reference it from the README as a markdown
+      image (`![…](concepts.svg)`). GitHub strips inline `<svg>` from markdown, so link a
+      committed `.svg` file rather than pasting raw SVG into the page. Give it an explicit
+      background and high-contrast labels so it reads in both light and dark themes, keep it
+      legible at normal width, and make it agree with `conclusion.md` — a diagram adds no new
+      claims.
 - Debates are not published externally.
 
 ## Deferred
