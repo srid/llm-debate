@@ -26,10 +26,11 @@ another Kolu terminal. Each debate is a directory of numbered turn-files.
 
 ```
 debates/<label>/
-  01.md            # opening turn (topic stated at the top)
-  02.md            # other agent's turn
-  03.md            # ...
-  conclusion.md    # agreed ledger (only when converging)
+  01.md                # opening turn (topic stated at the top)
+  02.md                # other agent's turn
+  03.md                # ...
+  conclusion.md        # agreed ledger — faithful & precise (only when converging)
+  conclusion.simple.md # plain-language, heavily-formatted companion (alongside conclusion.md)
 ```
 
 `<label>` names the debate; turns are numbered files in order.
@@ -50,7 +51,19 @@ debates/<label>/
 ## Conduct
 
 - Steelman before rebutting; concede what's genuinely true; forge new insight.
-- End per the chosen end-state — when converging, record the agreed facts in `conclusion.md`.
+- End per the chosen end-state. When converging, write **two** files:
+  - `conclusion.md` — the faithful ledger: every agreed claim, every amendment, and every
+    open question, in precise wording. This is the record.
+  - `conclusion.simple.md` — a plain-language, scannable companion saying the **same**
+    thing for a general reader. It changes *presentation only* — never alter, weaken, or
+    drop a conclusion or open item from `conclusion.md`. Two standing conventions:
+    - **Plain language.** Translate jargon and terms of art into everyday words (gloss or
+      footnote any that must stay); short sentences, concrete examples, a practical voice.
+      No arcane prose.
+    - **Liberal Markdown for glanceability.** Use the full toolkit — a metadata table, an
+      at-a-glance summary table, GitHub alerts (`> [!TIP]`/`[!NOTE]`/`[!WARNING]`/
+      `[!IMPORTANT]`), bold lead-ins, ordered/unordered lists, blockquotes, horizontal
+      rules, and footnotes for citations — so a reader can grasp it at a glance.
 - Debates are not published externally.
 
 ## Deferred
