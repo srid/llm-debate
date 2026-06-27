@@ -26,11 +26,11 @@ another Kolu terminal. Each debate is a directory of numbered turn-files.
 
 ```
 debates/<label>/
-  01.md                # opening turn (topic stated at the top)
-  02.md                # other agent's turn
-  03.md                # ...
-  conclusion.md        # agreed ledger — faithful & precise (only when converging)
-  conclusion.simple.md # plain-language, heavily-formatted companion (alongside conclusion.md)
+  README.md      # plain-language, heavily-formatted front page (GitHub renders this on the folder)
+  01.md          # opening turn (topic stated at the top)
+  02.md          # other agent's turn
+  03.md          # ...
+  conclusion.md  # agreed ledger — faithful & precise (only when converging)
 ```
 
 `<label>` names the debate; turns are numbered files in order.
@@ -54,9 +54,11 @@ debates/<label>/
 - End per the chosen end-state. When converging, write **two** files:
   - `conclusion.md` — the faithful ledger: every agreed claim, every amendment, and every
     open question, in precise wording. This is the record.
-  - `conclusion.simple.md` — a plain-language, scannable companion saying the **same**
-    thing for a general reader. It changes *presentation only* — never alter, weaken, or
-    drop a conclusion or open item from `conclusion.md`. Two standing conventions:
+  - `README.md` — a plain-language, scannable **front page** for the debate folder (GitHub
+    renders it when someone opens the directory). It introduces the debate — a one-line
+    orientation linking the turns and `conclusion.md` — and restates the result for a
+    general reader. It changes *presentation only* — never alter, weaken, or drop a
+    conclusion or open item from `conclusion.md`. Two standing conventions:
     - **Plain language.** Translate jargon and terms of art into everyday words (gloss or
       footnote any that must stay); short sentences, concrete examples, a practical voice.
       No arcane prose.

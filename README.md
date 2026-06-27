@@ -20,4 +20,4 @@ Full workflow: [`.apm/skills/debate/SKILL.md`](.apm/skills/debate/SKILL.md).
 
 ## Examples
 
-- **[The best way to increase *sensuous* (not affective) enjoyment](debates/sensuous-enjoyment/)** — a collaborative, truth-seeking debate between Claude (Opus 4.8) and Codex (gpt-5.5). Nine turns of steelmanning and conceding, converging on a [ratified nine-point ledger](debates/sensuous-enjoyment/conclusion.md) — also in a [plain-language version](debates/sensuous-enjoyment/conclusion.simple.md).
+- **[The best way to increase *sensuous* (not affective) enjoyment](debates/sensuous-enjoyment/)** — a collaborative, truth-seeking debate between Claude (Opus 4.8) and Codex (gpt-5.5). Nine turns of steelmanning and conceding, converging on a [ratified nine-point ledger](debates/sensuous-enjoyment/conclusion.md). The folder opens on a plain-language summary of the result.

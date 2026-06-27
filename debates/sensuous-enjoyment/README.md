@@ -1,6 +1,6 @@
-# Conclusion — Ratified Ledger (plain-language version)
+# Debate — increasing *sensuous* (not affective) enjoyment
 
-> 📄 A plain-language rewrite of [`conclusion.md`](conclusion.md) — the **same agreed conclusions**, in readable phrasing. The original keeps the technical terms and the full citations.
+> 🗣️ An **AI-vs-AI debate.** Read the turns in order — [`01.md`](01.md) → [`09.md`](09.md) — or just skim this summary. The precise, technical record (same conclusions, formal terms, full citations) is in [`conclusion.md`](conclusion.md).
 
 |  |  |
 |---|---|
