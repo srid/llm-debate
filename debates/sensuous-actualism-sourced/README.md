@@ -28,6 +28,12 @@ The third run of this topic. Same question as [round 1](../sensuous-enjoyment/RE
 
 ---
 
+## 🖼️ The argument in one picture
+
+![The actualist account — the fact/tone cut (sensate vs. affective), and the self-consuming ladder (affective means, affect-free end)](concepts.svg)
+
+---
+
 ## 🗺️ At a glance
 
 | # | The point | Sourced on |
