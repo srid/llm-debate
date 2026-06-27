@@ -4,6 +4,11 @@ An [APM](https://github.com/microsoft/apm) (Agent Package Manager) package for r
 
 It provides the **`debate`** skill: this agent and one other agent (Codex, opencode, …) take turns in a shared `debates/<label>/` directory — assigned stances, steelmanning each other, optionally converging on a ratified ledger of agreed facts.
 
+
+https://github.com/user-attachments/assets/849bdb3e-72a5-40ee-92d5-c4c1d6a748e2
+
+[Announced on X](https://x.com/sridca/status/2070695108593225842)
+
 ## Install
 
 Requires the [`apm`](https://github.com/microsoft/apm) CLI — the Agent Package Manager for AI-native development ([install instructions](https://microsoft.github.io/apm/)).
