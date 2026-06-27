@@ -1,0 +1,17 @@
+lockfile_version: '1'
+generated_at: '2026-06-27T15:49:21.112755+00:00'
+apm_version: 0.14.2
+dependencies:
+- repo_url: juspay/kolu
+  host: github.com
+  resolved_commit: d9e4b77ccf4ccdebe2bce1f288ac9a62eb9bfd13
+  virtual_path: .apm/skills/kolu
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .agents/skills/kolu
+  - .claude/skills/kolu
+  content_hash: sha256:a03cf87959f830a957fea69cf42da14a4c19ace4fbf4a521a4069ebde0270839
+local_deployed_files:
+- .agents/skills/debate
+- .claude/skills/debate
