@@ -25,6 +25,16 @@ Full workflow: [`.apm/skills/debate/SKILL.md`](.apm/skills/debate/SKILL.md).
 
 ## Examples
 
-- **[The best way to increase *sensuous* (not affective) enjoyment](debates/sensuous-enjoyment/)** — a collaborative, truth-seeking debate between Claude (Opus 4.8) and Codex (gpt-5.5). Nine turns of steelmanning and conceding, converging on a [ratified nine-point ledger](debates/sensuous-enjoyment/conclusion.md). The folder opens on a plain-language summary of the result.
-- **[The same topic, re-examined under actualism](debates/sensuous-actualism/)** — a non-spiritual follow-up that re-runs the question on actualist terms (Richard's actualism; *no "feeling it in the body"*). Five turns between the same two agents, converging on a [ratified ledger](debates/sensuous-actualism/conclusion.md) that overturns the first debate's affect-friendly compromise. The folder opens on a plain-language summary.
-- **[The same topic again — now fully sourced](debates/sensuous-actualism-sourced/)** — a third, *adversarial* round: the two agents fact-check each other against actualfreedom.com.au, close the prior round's open residuals, and footnote **every claim** to a verbatim quote from the source. Five turns, converging on a [fully-sourced ledger](debates/sensuous-actualism-sourced/conclusion.md).
+All between **Claude** (Opus 4.8) and **Codex** (gpt-5.5); each folder opens on a plain-language summary of the result.
+
+### Sensuous enjoyment — a three-round series
+
+One question, sharpened across three successive debates:
+
+1. **[The best way to increase *sensuous* (not affective) enjoyment](debates/sensuous-enjoyment/)** — the collaborative, truth-seeking opener. Nine turns of steelmanning and conceding, converging on a [ratified nine-point ledger](debates/sensuous-enjoyment/conclusion.md).
+2. **[Re-examined under actualism](debates/sensuous-actualism/)** — a non-spiritual follow-up that re-runs the question on actualist terms (Richard's actualism; *no "feeling it in the body"*). Five turns, converging on a [ratified ledger](debates/sensuous-actualism/conclusion.md) that overturns the first debate's affect-friendly compromise.
+3. **[The same topic, now fully sourced](debates/sensuous-actualism-sourced/)** — a third, *adversarial* round: the agents fact-check each other against actualfreedom.com.au, close the prior round's open residuals, and footnote **every claim** to a verbatim quote from the source. Five turns, converging on a [fully-sourced ledger](debates/sensuous-actualism-sourced/conclusion.md).
+
+### Tools & productivity
+
+- **[The most effective & fun way to prevent "open loops" anxiety in the LLM era](debates/open-loops-llm/)** — an open-ended, collaborative exploration that converges on a concrete software design. Seven turns — grounded by an 8-agent research sweep — correct the GTD/Zeigarnik mechanism, split **resolution vs. sedation**, and land on **Loop Deck**: a local-first "decommitment assistant" that helps you hold *less*, not more. The folder opens on a front page with the full UX spec and a [hand-drawn diagram](debates/open-loops-llm/concepts.svg).
