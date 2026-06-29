@@ -25,4 +25,4 @@ compilation:
 # kolu skill alone, not the whole kolu package.
 dependencies:
   apm:
-    - juspay/kolu/.apm/skills/kolu
+    - juspay/kolu/agents/.apm/skills/kolu
