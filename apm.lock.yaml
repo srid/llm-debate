@@ -1,12 +1,12 @@
 lockfile_version: '1'
-generated_at: '2026-06-29T17:42:38.669085+00:00'
-apm_version: 0.23.0
+generated_at: '2026-07-01T14:15:27.917401+00:00'
+apm_version: 0.23.1
 dependencies:
 - repo_url: juspay/kolu
   name: kolu
   host: github.com
-  resolved_commit: dbff5c22c832730e9fc7e08c23480edc64b89a1d
-  version: unknown
+  resolved_commit: 5623271808cb3023b338a0ea63c319cf43dc92e4
+  version: 1.0.0
   virtual_path: agents/.apm/skills/kolu
   is_virtual: true
   package_type: claude_skill
@@ -16,9 +16,9 @@ dependencies:
   - .claude/skills/kolu
   - .claude/skills/kolu/SKILL.md
   deployed_file_hashes:
-    .agents/skills/kolu/SKILL.md: sha256:3502c99286fa3f253950dac258f7a5062c563f73fe4747029194f2e0bfaa072d
-    .claude/skills/kolu/SKILL.md: sha256:3502c99286fa3f253950dac258f7a5062c563f73fe4747029194f2e0bfaa072d
-  content_hash: sha256:c457b0d11e5f706f4ace57c0fdbe510b9367ead42d5b78372b8cb805cf18e2c2
+    .agents/skills/kolu/SKILL.md: sha256:3613c5e99ec405c75ee070ed993ded22a37eea872d71e9e173ae9526104339bb
+    .claude/skills/kolu/SKILL.md: sha256:3613c5e99ec405c75ee070ed993ded22a37eea872d71e9e173ae9526104339bb
+  content_hash: sha256:9db4e9ec6aa816c026624dc54bd6a15c16693da546bb2c16573b34d47b958037
 local_deployed_files:
 - .agents/skills/debate
 - .agents/skills/debate/SKILL.md
